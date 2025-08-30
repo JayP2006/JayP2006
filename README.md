@@ -13,7 +13,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=700&center=true&vCenter=true&width=1000&lines=MERN+Stack+Developer+%F0%9F%9A%80;Learning+DevOps+(Docker+%7C+K8s+%7C+AWS)+%F0%9F%9A%A7;300%2B+DSA+problems+%7C+GFG+160+Day+Challenge+%F0%9F%8F%83;Always+Learning+Clean+Code+%26+System+Design" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=8B5CF6&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Jay+Patel+👋;Full+Stack+Developer+🚀;MERN+%7C+DevOps+Learner+⚡;300%2B+DSA+Problems+Solved+📊;Always+Learning+Clean+Code+❤️" alt="Typing SVG" />
 </p>
 
 
