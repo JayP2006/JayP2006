@@ -94,10 +94,12 @@
 ---
 
 ## 🏆 Achievements
+-Amazon SDE Intern(shortlisted)
 - Solved **300+ DSA problems** (LeetCode + GFG)  
 - HackerRank Problem Solving **3★**  
 - **Certifications:** Next.js (GFG) • Advanced JavaScript (GFG) • AI & Green Skills (Edunet)  
-- Diploma topper (GTU, CGPA 9.65) • B.Tech CGPA 9.26 (Rank 1 in 3rd sem)  
+- Diploma topper (GTU, CGPA 9.65) • B.Tech CGPA 9.26 (Rank 1 in 3rd sem)
+
 
 ---
 
@@ -107,11 +109,6 @@
   <a href="https://linkedin.com/in/pjaykumar/"><img src="https://img.shields.io/badge/LinkedIn-JayKumar-blue?style=for-the-badge&logo=linkedin"/></a>
   <a href="https://jaypatel-portfolio-2006.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Live-black?style=for-the-badge&logo=vercel"/></a>
   <a href="https://instagram.com/who_jay_patel"><img src="https://img.shields.io/badge/Instagram-who__jay__patel-E4405F?style=for-the-badge&logo=instagram"/></a>
-  <a href="https://auth.geeksforgeeks.org/user/jay91451/practice/"><img src="https://img.shields.io/badge/GFG-Practice-brightgreen?style=for-the-badge&logo=geeksforgeeks"/></a>
+  <a href="https://auth.geeksforgeeks.org/user/jay4code"><img src="https://img.shields.io/badge/GFG-Practice-brightgreen?style=for-the-badge&logo=geeksforgeeks"/></a>
 </p>
 
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:8B5CF6,100:6EE7F9&section=footer"/>
-</p>
