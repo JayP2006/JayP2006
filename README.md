@@ -59,7 +59,7 @@
 <tr>
 <td align="center" width="50%">
 
-### 🎮 [Sudoku Solver (MERN)](https://github.com/JayP2006/image-enhancer)  
+### 🎮 [Image Enhancer (MERN)](https://github.com/JayP2006/image-enhancer)  
 🔹 Enhance your Image 
 
 <a href="https://github.com/JayP2006/image-enhancer"><img src="https://img.shields.io/badge/Code-000?style=for-the-badge&logo=github"/></a>
