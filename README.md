@@ -45,7 +45,7 @@
 🔹 Custom aliases, password-protected links, QR codes, expiry, analytics  
 
 <a href="https://github.com/JayP2006/url-shortener"><img src="https://img.shields.io/badge/Code-000?style=for-the-badge&logo=github"/></a>
-<a href="https://jaypatel-portfolio-2006.vercel.app"><img src="https://img.shields.io/badge/Demo-Live-6EE7F9?style=for-the-badge&logo=vercel"/></a>
+<a href="https://shrinkx.onrender.com/"><img src="https://img.shields.io/badge/Demo-Live-6EE7F9?style=for-the-badge&logo=vercel"/></a>
 
 </td>
 <td align="center" width="50%">
@@ -54,6 +54,7 @@
 🔹 JWT auth, socket-based 1-1 chat, delivery receipts, search  
 
 <a href="https://github.com/JayP2006/realtime-chat-app"><img src="https://img.shields.io/badge/Code-000?style=for-the-badge&logo=github"/></a>
+<a href="https://chatobi.onrender.com/"><img src="https://img.shields.io/badge/Demo-Live-6EE7F9?style=for-the-badge&logo=vercel"/></a>
 
 </td>
 </tr>
@@ -65,6 +66,8 @@
 🔹 Enhance your Image 
 
 <a href="https://github.com/JayP2006/image-enhancer"><img src="https://img.shields.io/badge/Code-000?style=for-the-badge&logo=github"/></a>
+<a href="https://chatobi.onrender.com/"><img src="https://img.shields.io/badge/Demo-Live-6EE7F9?style=for-the-badge&logo=vercel"/></a>
+
 
 </td>
 
