@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:6EE7F9,100:8B5CF6&text=PATEL%20JAYKUMAR%20RAKESHBHAI&fontSize=38&fontAlign=50&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20DevOps%20Enthusiast&descAlign=50&descAlignY=65" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:6EE7F9,100:8B5CF6&text=PATEL%20JAYKUMAR%20RAKESHBHAI&fontSize=38&fontAlign=50&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20DevOps%20Learner&descAlign=50&descAlignY=65" alt="header"/>
 </p>
 
 <p align="center">
@@ -7,7 +7,7 @@
   <a href="https://linkedin.com/in/pjaykumar/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="linkedin"/></a>
   <a href="mailto:jay91451@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail" alt="email"/></a>
   <a href="https://jaypatel-portfolio-2006.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Live-black?style=for-the-badge&logo=vercel" alt="portfolio"/></a>
-  <a href="https://auth.geeksforgeeks.org/user/jay4code"><img src="https://img.shields.io/badge/GeeksforGeeks-Profile-brightgreen?style=for-the-badge&logo=geeksforgeeks" alt="gfg"/></a>
+  <a href="https://auth.geeksforgeeks.org/user/jay4code/"><img src="https://img.shields.io/badge/GeeksforGeeks-Profile-brightgreen?style=for-the-badge&logo=geeksforgeeks" alt="gfg"/></a>
   <a href="https://instagram.com/who_jay_patel"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram" alt="insta"/></a>
 </p>
 
@@ -34,22 +34,40 @@
 ---
 
 ## 🚀 Featured Projects
-<p align="center">
-  <a href="https://github.com/JayP2006/url-shortener">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=JayP2006&repo=url-shortener&theme=transparent"/>
-  </a>
-  <a href="https://github.com/JayP2006/realtime-chat-app">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=JayP2006&repo=realtime-chat-app&theme=transparent"/>
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/JayP2006/sudoku-solver-mern">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=JayP2006&repo=sudoku-solver-mern&theme=transparent"/>
-  </a>
-  <a href="https://jaypatel-portfolio-2006.vercel.app">
-    <img width="48%" src="https://img.shields.io/badge/Portfolio-Live-000?style=for-the-badge&logo=vercel"/>
-  </a>
-</p>
+
+<table>
+<tr>
+<td align="center" width="50%">
+  
+### 🔗 [URL Shortener](https://github.com/JayP2006/Urlshortner)  
+🔹 Custom aliases, password-protected links, QR codes, expiry, analytics  
+
+<a href="https://github.com/JayP2006/url-shortener"><img src="https://img.shields.io/badge/Code-000?style=for-the-badge&logo=github"/></a>
+<a href="https://jaypatel-portfolio-2006.vercel.app"><img src="https://img.shields.io/badge/Demo-Live-6EE7F9?style=for-the-badge&logo=vercel"/></a>
+
+</td>
+<td align="center" width="50%">
+  
+### 💬 [Real-Time Chat App](https://github.com/JayP2006/chat-app)  
+🔹 JWT auth, socket-based 1-1 chat, delivery receipts, search  
+
+<a href="https://github.com/JayP2006/realtime-chat-app"><img src="https://img.shields.io/badge/Code-000?style=for-the-badge&logo=github"/></a>
+
+</td>
+</tr>
+
+<tr>
+<td align="center" width="50%">
+
+### 🎮 [Sudoku Solver (MERN)](https://github.com/JayP2006/image-enhancer)  
+🔹 Enhance your Image 
+
+<a href="https://github.com/JayP2006/image-enhancer"><img src="https://img.shields.io/badge/Code-000?style=for-the-badge&logo=github"/></a>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
@@ -71,44 +89,21 @@
 ---
 
 ## 🏆 Achievements
-- Solved **300+ DSA problems** (LeetCode + GFG)
-- HackerRank Problem Solving **3★**
-- **Certifications:** Next.js (GFG) • Advanced JavaScript (GFG) • AI & Green Skills (Edunet)
-- Diploma topper (GTU, CGPA 9.65) • B.Tech CGPA 9.26 (Rank 1 in 3rd sem)
-
----
-
-## 🛳️ DevOps Roadmap (Current Focus)
-<details>
-<summary><b>Click to expand</b></summary>
-
-- **Foundations:** Linux, Git/GitHub, SSH  
-- **Containers:** Docker (images, layers, volumes)  
-- **Orchestration:** Kubernetes (Pods, Deployments, Services, Ingress)  
-- **CI/CD:** GitHub Actions, Jenkins pipelines  
-- **IaC:** Terraform, Ansible basics  
-- **Cloud:** AWS (EC2, S3, IAM, ECR/EKS)  
-- **Monitoring:** Prometheus, Grafana, Loki  
-- **Security:** secrets mgmt, OWASP Top 10, container scanning (Trivy)  
-- **Networking:** Nginx, Load Balancing, DNS, TLS  
-- **Bonus:** Postman automation, K6 load testing  
-</details>
-
----
-
-## 🐍 Contribution Animation
-<p align="center">
-  <img src="https://raw.githubusercontent.com/JayP2006/JayP2006/output/snake.svg" alt="snake"/>
-</p>
+- Solved **300+ DSA problems** (LeetCode + GFG)  
+- HackerRank Problem Solving **3★**  
+- **Certifications:** Next.js (GFG) • Advanced JavaScript (GFG) • AI & Green Skills (Edunet)  
+- Diploma topper (GTU, CGPA 9.65) • B.Tech CGPA 9.26 (Rank 1 in 3rd sem)  
 
 ---
 
 ## 📫 Connect With Me
-- 📧 **jay91451@gmail.com**  
-- 💼 [LinkedIn](https://linkedin.com/in/pjaykumar/)  
-- 💻 [Portfolio](https://jaypatel-portfolio-2006.vercel.app)  
-- 📸 [Instagram](https://instagram.com/who_jay_patel)  
-- 👨‍💻 [GeeksforGeeks](https://auth.geeksforgeeks.org/user/jay91451/practice/)  
+<p align="center">
+  <a href="mailto:jay91451@gmail.com"><img src="https://img.shields.io/badge/Gmail-jay91451%40gmail.com-red?style=for-the-badge&logo=gmail"/></a>
+  <a href="https://linkedin.com/in/pjaykumar/"><img src="https://img.shields.io/badge/LinkedIn-JayKumar-blue?style=for-the-badge&logo=linkedin"/></a>
+  <a href="https://jaypatel-portfolio-2006.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Live-black?style=for-the-badge&logo=vercel"/></a>
+  <a href="https://instagram.com/who_jay_patel"><img src="https://img.shields.io/badge/Instagram-who__jay__patel-E4405F?style=for-the-badge&logo=instagram"/></a>
+  <a href="https://auth.geeksforgeeks.org/user/jay91451/practice/"><img src="https://img.shields.io/badge/GFG-Practice-brightgreen?style=for-the-badge&logo=geeksforgeeks"/></a>
+</p>
 
 ---
 
