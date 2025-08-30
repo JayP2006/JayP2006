@@ -12,8 +12,13 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=700&center=true&vCenter=true&width=1000&lines=MERN+Stack+Developer+🚀;DevOps+Learner+(Docker%7CK8s%7CAWS)+⚡;300%2B+DSA+Problems+Solved+📊;Always+Learning+%7C+Clean+Code+%7C+System+Design" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:6EE7F9,100:8B5CF6&text=PATEL%20JAYKUMAR%20RAKESHBHAI&fontSize=36&fontAlign=50&fontAlignY=30&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20DevOps%20Learner&descAlign=50&descAlignY=55" alt="header"/>
 </p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1200&color=8B5CF6&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Jay+Patel+👋;Full+Stack+Developer+🚀;MERN+%7C+DevOps+Learner+⚡;DSA+300%2B+Problems+Solved+📊;Always+Learning+Clean+Code+❤️" alt="Typing SVG" />
+</p>
+
 
 ---
 
