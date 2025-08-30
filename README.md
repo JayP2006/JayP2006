@@ -94,8 +94,8 @@
 ---
 
 ## 🏆 Achievements
--Amazon SDE Intern(shortlisted)
-- Solved **300+ DSA problems** (LeetCode + GFG)  
+- Solved **300+ DSA problems** (LeetCode + GFG)
+- Amazon SDE Intern(shortlisted)
 - HackerRank Problem Solving **3★**  
 - **Certifications:** Next.js (GFG) • Advanced JavaScript (GFG) • AI & Green Skills (Edunet)  
 - Diploma topper (GTU, CGPA 9.65) • B.Tech CGPA 9.26 (Rank 1 in 3rd sem)
