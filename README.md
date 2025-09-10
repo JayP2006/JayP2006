@@ -13,7 +13,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=8B5CF6&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Jay+Patel+👋;Full+Stack+Developer+🚀;MERN+%7C+DevOps+Learner+⚡;300%2B+DSA+Problems+Solved+📊;Always+Learning+Clean+Code+❤️" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=8B5CF6&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Jay+Patel+👋;Full+Stack+Developer+🚀;MERN+%7C+DevOps+Learner+⚡;400%2B+DSA+Problems+Solved+📊;Always+Learning+Clean+Code+❤️" alt="Typing SVG" />
 </p>
 
 
