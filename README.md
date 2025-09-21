@@ -62,11 +62,11 @@
 <tr>
 <td align="center" width="50%">
 
-### 🎮 [Image Enhancer (MERN)](https://github.com/JayP2006/image-enhancer)  
-🔹 Enhance your Image 
+### 🎮 [ShikshaMudra (MERN)](https://github.com/JayP2006/Bharat-Skill-Exchange)  
+🔹 Gain skills 
 
-<a href="https://github.com/JayP2006/image-enhancer"><img src="https://img.shields.io/badge/Code-000?style=for-the-badge&logo=github"/></a>
-<a href="https://chatobi.onrender.com/"><img src="https://img.shields.io/badge/Demo-Live-6EE7F9?style=for-the-badge&logo=vercel"/></a>
+<a href="https://github.com/JayP2006/Bharat-Skill-Exchange"><img src="https://img.shields.io/badge/Code-000?style=for-the-badge&logo=github"/></a>
+<a href="https://shiksha-mudraa.onrender.com"><img src="https://img.shields.io/badge/Demo-Live-6EE7F9?style=for-the-badge&logo=vercel"/></a>
 
 
 </td>
