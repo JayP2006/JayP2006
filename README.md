@@ -41,7 +41,7 @@
 <tr>
 <td align="center" width="50%">
   
-### 🔗 https://www.shorturl.at/(https://github.com/JayP2006/Urlshortner)  
+### 🔗 [Advanced Url Shortner](https://github.com/JayP2006/Urlshortner)  
 🔹 Custom aliases, password-protected links, QR codes, expiry, analytics  
 
 <a href="https://github.com/JayP2006/url-shortener"><img src="https://img.shields.io/badge/Code-000?style=for-the-badge&logo=github"/></a>
