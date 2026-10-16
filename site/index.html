@@ -1,0 +1,183 @@
+<!doctype html>
+<html lang="en" data-theme="dark">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="theme-color" content="#070912" />
+  <meta name="description" content="Jay Patel — software engineering, full-stack systems, applied machine learning, and competitive programming." />
+  <title>Jay Patel // Systems Console</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="./styles.css" />
+  <script src="./app.js" defer></script>
+</head>
+<body>
+  <div class="boot-screen" id="bootScreen" aria-hidden="true">
+    <div class="boot-mark">JP<span>_</span></div>
+    <div class="boot-label">INITIALIZING JAY.SYSTEMS</div>
+    <div class="boot-track"><span></span></div>
+    <div class="boot-version">PROFILE OS // BUILD 2026.10</div>
+  </div>
+
+  <div class="ambient ambient-a"></div>
+  <div class="ambient ambient-b"></div>
+  <div class="grid-plane"></div>
+  <div class="cursor-aura" id="cursorAura"></div>
+
+  <header class="topbar">
+    <a class="brand" href="#home" aria-label="Jay Systems home"><span class="brand-glyph">J<span>/</span>P</span><span class="brand-copy">JAY<span>.SYSTEMS</span><small>PERSONAL ENGINEERING CONSOLE</small></span></a>
+    <nav class="nav-links" aria-label="Main navigation">
+      <a href="#signals">Signals</a>
+      <a href="#systems">Systems</a>
+      <a href="#repo-radar">Repo radar</a>
+      <a href="#recognition">Recognition</a>
+    </nav>
+    <div class="nav-actions">
+      <button class="icon-button" id="themeToggle" type="button" aria-label="Switch color theme" title="Switch color theme">◐</button>
+      <button class="command-trigger" id="openCommand" type="button"><span>⌘</span> <span>Command</span> <kbd>Ctrl K</kbd></button>
+    </div>
+  </header>
+
+  <main id="home">
+    <section class="hero section-shell">
+      <div class="hero-copy reveal">
+        <div class="eyebrow"><span class="pulse-dot"></span> ENGINEERING PROFILE <span class="eyebrow-divider">/</span> INDIA <span class="eyebrow-divider">/</span> <span id="connectionState">CONNECTING TO GITHUB</span></div>
+        <h1>Ideas into<br /><span class="gradient-text">working systems.</span></h1>
+        <div class="role-line"><span class="role-prefix">I BUILD //</span><span id="typewriter">Full-stack products</span><span class="type-caret">▍</span></div>
+        <p class="hero-description">I'm <strong>Jay Patel</strong> — a Computer Science undergraduate building useful web products, exploring applied machine learning, and sharpening systems thinking through competitive programming.</p>
+        <div class="hero-actions">
+          <a class="button button-primary" href="#systems"><span>Explore my builds</span><span class="button-arrow">↘</span></a>
+          <a class="button button-quiet" href="https://github.com/JayP2006" target="_blank" rel="noreferrer"><span>GitHub profile</span><span>↗</span></a>
+        </div>
+        <div class="hero-mini-row">
+          <span class="mini-signal"><i class="signal-bars"><b></b><b></b><b></b><b></b></i> API-SYNCED PROFILE</span>
+          <span class="mini-signal"><i class="mini-circle"></i> CSE · 2023—2027</span>
+        </div>
+      </div>
+
+      <div class="hero-visual reveal" aria-label="Animated engineering orbit graphic">
+        <div class="visual-topline"><span>FIG. 01 / SYSTEM ORBIT</span><span class="live-tag"><i></i> ACTIVE</span></div>
+        <div class="orbit-stage">
+          <div class="orbit orbit-outer"></div>
+          <div class="orbit orbit-mid"></div>
+          <div class="orbit orbit-inner"></div>
+          <div class="orbit-dash"></div>
+          <div class="orbit-core"><span>JP</span><small>ENGINEER</small></div>
+          <div class="orbit-node node-cyan"><span>01</span><b>BUILD</b></div>
+          <div class="orbit-node node-violet"><span>02</span><b>MODEL</b></div>
+          <div class="orbit-node node-pink"><span>03</span><b>SOLVE</b></div>
+          <div class="orbit-cross cross-one"></div><div class="orbit-cross cross-two"></div>
+        </div>
+        <div class="visual-bottomline"><span>FULL-STACK</span><span>ALGORITHMS</span><span>APPLIED ML</span></div>
+        <div class="visual-index">JP-27 <span>°</span> 001</div>
+      </div>
+    </section>
+
+    <section class="signal-strip section-shell reveal" id="signals">
+      <div class="section-label"><span class="section-index">01</span><span>CAREER SIGNALS</span><span class="section-line"></span><span class="section-caption">RESUME SNAPSHOT</span></div>
+      <div class="signal-grid">
+        <article class="signal-card"><div class="card-top"><span>ALGO / PRACTICE</span><span class="card-glyph">⌘</span></div><div class="signal-value">1,700<span>+</span></div><div class="signal-title">problems solved</div><div class="signal-foot">LeetCode + GeeksforGeeks</div><div class="signal-meter"><span style="width:88%"></span></div></article>
+        <article class="signal-card signal-card-active"><div class="card-top"><span>COMPETITIVE / RATING</span><span class="card-glyph">↗</span></div><div class="signal-value">2,212<span>+</span></div><div class="signal-title">LeetCode rating</div><div class="signal-foot">Resume-reported · top ~2%</div><div class="signal-meter"><span style="width:94%"></span></div></article>
+        <article class="signal-card"><div class="card-top"><span>CONTEST / PEAK</span><span class="card-glyph">✳</span></div><div class="signal-value">#35</div><div class="signal-title">Weekly Contest 503</div><div class="signal-foot">Among 39,000+ participants</div><div class="signal-meter"><span style="width:97%"></span></div></article>
+        <article class="signal-card"><div class="card-top"><span>ASSESSMENT / TCS NQT</span><span class="card-glyph">▤</span></div><div class="signal-value">600<span>/600</span></div><div class="signal-title">programming section</div><div class="signal-foot">Perfect score reported in resume</div><div class="signal-meter"><span style="width:100%"></span></div></article>
+      </div>
+      <div class="signal-disclaimer">These four achievement metrics are resume snapshots, not live API values. GitHub account statistics below update from the public GitHub API.</div>
+    </section>
+
+    <section class="systems-section section-shell" id="systems">
+      <div class="section-label reveal"><span class="section-index">02</span><span>SELECTED SYSTEMS</span><span class="section-line"></span><span class="section-caption">THINGS I'VE BUILT</span></div>
+      <div class="section-intro reveal"><div><h2>Built with intent.<br /><span class="muted-heading">Designed for use.</span></h2></div><p>From product workflows to live communication and predictive modelling, these projects reflect how I think about software: make it useful, make it understandable, and make the pieces work together.</p></div>
+
+      <div class="project-grid">
+        <article class="project-card project-featured reveal">
+          <div class="project-visual visual-shrinkx"><div class="project-visual-meta"><span>PROJECT / 001</span><span>WEB PLATFORM</span></div><div class="shrinkx-mark">s<span>↘</span></div><div class="fake-url"><span>shrinkx.app/</span><b>go-fast</b><i>↗</i></div><div class="micro-stats"><span>LINK SIGNAL <b>●●●●</b></span><span>ANALYTICS <b>ENABLED</b></span></div></div>
+          <div class="project-content"><div class="project-title-row"><div><div class="project-kicker">LINK INTELLIGENCE PLATFORM</div><h3>ShrinkX</h3></div><span class="project-number">01 / 04</span></div><p>A MERN URL platform that combines custom short links with traffic insights and AI-assisted link context.</p><div class="project-points"><span>Custom aliases + expiry rules</span><span>QR codes + traffic analytics</span><span>Gemini-powered previews + click alerts</span></div><div class="tag-row"><span>REACT</span><span>NODE</span><span>MONGODB</span><span>GEMINI API</span></div><div class="project-links"><a href="https://github.com/JayP2006/Urlshortner" target="_blank" rel="noreferrer">SOURCE CODE <b>↗</b></a><a href="https://shrinkx.onrender.com/" target="_blank" rel="noreferrer">LIVE DEMO <b>↗</b></a></div></div>
+        </article>
+
+        <article class="project-card reveal">
+          <div class="project-visual visual-skill"><div class="project-visual-meta"><span>PROJECT / 002</span><span>GEO + REAL-TIME</span></div><div class="skill-map"><div class="map-ring ring-a"></div><div class="map-ring ring-b"></div><div class="map-ring ring-c"></div><span class="map-pin pin-a">G</span><span class="map-pin pin-b">S</span><span class="map-pin pin-c">G</span><span class="map-center">SKILL<br />NETWORK</span></div><div class="map-caption">LOCAL KNOWLEDGE / GLOBAL POTENTIAL</div></div>
+          <div class="project-content"><div class="project-title-row"><div><div class="project-kicker">HYPERLOCAL SKILL EXCHANGE</div><h3>BharatSkill Connect</h3></div><span class="project-number">02 / 04</span></div><p>Connects learners and mentors through nearby skill discovery, bookings, and real-time communication.</p><div class="project-points"><span>Geo-based discovery + session booking</span><span>JWT, roles, rate limits, central errors</span><span>Chat, reviews, certificates, media</span></div><div class="tag-row"><span>REACT</span><span>EXPRESS</span><span>MONGODB</span><span>SOCKET.IO</span></div><div class="project-links"><a href="https://github.com/JayP2006/Bharat-Skill-Exchange" target="_blank" rel="noreferrer">SOURCE CODE <b>↗</b></a><a href="https://shiksha-mudraa.onrender.com" target="_blank" rel="noreferrer">LIVE DEMO <b>↗</b></a></div></div>
+        </article>
+
+        <article class="project-card reveal">
+          <div class="project-visual visual-chat"><div class="project-visual-meta"><span>PROJECT / 003</span><span>REAL-TIME SYSTEM</span></div><div class="chat-window"><div class="chat-window-top"><i></i><i></i><i></i><span>CHATOBI / CHANNEL</span></div><div class="chat-message left">socket connected <b>✓</b></div><div class="chat-message right">message delivered <b>✓✓</b></div><div class="typing-pips"><i></i><i></i><i></i><span>typing…</span></div></div><div class="chat-wave"></div></div>
+          <div class="project-content"><div class="project-title-row"><div><div class="project-kicker">REAL-TIME COMMUNICATION</div><h3>ChatObi</h3></div><span class="project-number">03 / 04</span></div><p>A responsive messaging application built around authenticated users and persistent, real-time conversation flows.</p><div class="project-points"><span>JWT-based auth + user search</span><span>Socket.IO one-to-one messaging</span><span>Conversation history + message-state UX</span></div><div class="tag-row"><span>REACT</span><span>NODE</span><span>MONGODB</span><span>SOCKET.IO</span></div><div class="project-links"><a href="https://github.com/JayP2006/chat-app" target="_blank" rel="noreferrer">SOURCE CODE <b>↗</b></a><a href="https://chatobi.onrender.com/" target="_blank" rel="noreferrer">LIVE DEMO <b>↗</b></a></div></div>
+        </article>
+
+        <article class="project-card reveal">
+          <div class="project-visual visual-ml"><div class="project-visual-meta"><span>PROJECT / 004</span><span>APPLIED ML</span></div><div class="ml-chart"><div class="chart-axis"><span>HIGH RISK</span><span>LOW RISK</span></div><div class="chart-columns"><i style="--h:38%"></i><i style="--h:55%"></i><i style="--h:47%"></i><i style="--h:73%"></i><i style="--h:62%"></i><i style="--h:88%"></i><i style="--h:69%"></i><i style="--h:93%"></i><i style="--h:77%"></i><i style="--h:64%"></i><i style="--h:82%"></i><i style="--h:50%"></i></div><div class="chart-labels"><span>FEATURES</span><span>CHURN SIGNAL</span></div></div></div>
+          <div class="project-content"><div class="project-title-row"><div><div class="project-kicker">CUSTOMER RISK MODELLING</div><h3>Customer Churn Prediction</h3></div><span class="project-number">04 / 04</span></div><p>Supervised ML workflow exploring customer behaviour and comparing multiple classifiers for churn detection.</p><div class="project-points"><span>7,043 customer records analysed</span><span>Six classifiers · five-fold CV</span><span>Logistic Regression: 75.02% test accuracy</span></div><div class="tag-row"><span>PYTHON</span><span>PANDAS</span><span>SCIKIT-LEARN</span><span>SMOTE</span></div><div class="project-links"><a href="https://github.com/JayP2006?tab=repositories" target="_blank" rel="noreferrer">FIND REPOSITORY <b>↗</b></a><span class="link-note">MODEL METRICS FROM RESUME</span></div></div>
+        </article>
+      </div>
+    </section>
+
+    <section class="repo-section section-shell" id="repo-radar">
+      <div class="section-label reveal"><span class="section-index">03</span><span>REPOSITORY RADAR</span><span class="section-line"></span><span class="section-caption">LIVE GITHUB API</span></div>
+      <div class="section-intro reveal"><div><h2>Explore the source.<br /><span class="muted-heading">Follow the signal.</span></h2></div><p>This panel loads JayP2006's public repositories directly from GitHub. Search projects, filter by language, and sort by recent activity or stars.</p></div>
+      <div class="repo-console reveal">
+        <div class="console-header"><div class="console-lights"><i></i><i></i><i></i></div><span>jayp2006@github / repos --live</span><span class="console-status"><i></i><b id="repoLoadStatus">FETCHING</b></span></div>
+        <div class="repo-controls"><label class="search-box"><span>⌕</span><input id="repoSearch" type="search" placeholder="Search repositories, topics, languages…" autocomplete="off" aria-label="Search repositories" /><kbd>/</kbd></label><label class="select-box"><span class="sr-only">Filter by language</span><select id="languageFilter" aria-label="Filter repositories by language"><option value="all">All languages</option></select></label><label class="select-box"><span class="sr-only">Sort repositories</span><select id="repoSort" aria-label="Sort repositories"><option value="updated">Recently updated</option><option value="stars">Most stars</option><option value="name">Name A—Z</option></select></label></div>
+        <div class="repo-summary"><span><b id="repoShown">—</b> MATCHING REPOSITORIES</span><span><b id="repoStars">—</b> TOTAL PUBLIC STARS</span><span>DATA SOURCE <b>api.github.com</b></span></div>
+        <div class="repo-grid" id="repoGrid" aria-live="polite"><div class="repo-loading"><span class="loader-ring"></span><span>Pulling public repository data…</span></div></div>
+        <div class="repo-footer"><span id="repoUpdated">WAITING FOR FIRST RESPONSE</span><a href="https://github.com/JayP2006?tab=repositories" target="_blank" rel="noreferrer">OPEN ALL REPOSITORIES ↗</a></div>
+      </div>
+      <p class="api-note" id="apiNote">Public GitHub API · no token required · data availability depends on GitHub's anonymous API rate limit.</p>
+    </section>
+
+    <section class="stack-section section-shell" id="stack">
+      <div class="section-label reveal"><span class="section-index">04</span><span>CAPABILITY MAP</span><span class="section-line"></span><span class="section-caption">CURRENT TOOLCHAIN</span></div>
+      <div class="stack-layout">
+        <div class="stack-intro reveal"><h2>One toolbox.<br /><span class="muted-heading">Multiple problem spaces.</span></h2><p>I work across interfaces, APIs, real-time flows, data analysis, and algorithmic problem-solving—choosing tools for the problem rather than the trend.</p><a class="text-link" href="https://github.com/JayP2006" target="_blank" rel="noreferrer">Inspect my work <span>↗</span></a></div>
+        <div class="stack-modules">
+          <article class="stack-module reveal"><div class="stack-module-index">A</div><div class="stack-module-body"><h3>Product engineering</h3><p>Build interfaces and services that feel coherent end-to-end.</p><div class="skill-pills"><span>JavaScript</span><span>React</span><span>Node.js</span><span>Express</span><span>REST APIs</span><span>Tailwind CSS</span><span>JWT</span><span>Socket.IO</span></div></div><div class="module-mark">⌘</div></article>
+          <article class="stack-module reveal"><div class="stack-module-index">B</div><div class="stack-module-body"><h3>Data & machine learning</h3><p>Move from exploration and preprocessing to comparative evaluation.</p><div class="skill-pills"><span>Python</span><span>Pandas</span><span>NumPy</span><span>Scikit-learn</span><span>SMOTE</span><span>EDA</span><span>Matplotlib</span><span>Seaborn</span></div></div><div class="module-mark">∿</div></article>
+          <article class="stack-module reveal"><div class="stack-module-index">C</div><div class="stack-module-body"><h3>Computer science core</h3><p>Structure the logic first; optimize where it matters.</p><div class="skill-pills"><span>DSA</span><span>C</span><span>Java</span><span>SQL</span><span>OOP</span><span>DBMS</span><span>OS</span><span>Networks</span></div></div><div class="module-mark">⌬</div></article>
+        </div>
+      </div>
+    </section>
+
+    <section class="git-panel-section section-shell" id="github-signals">
+      <div class="section-label reveal"><span class="section-index">05</span><span>GITHUB LIVE SIGNALS</span><span class="section-line"></span><span class="section-caption">ACCOUNT SNAPSHOT</span></div>
+      <div class="github-dashboard reveal">
+        <div class="github-dashboard-main"><div class="github-dashboard-heading"><div><div class="project-kicker">PUBLIC PROFILE TELEMETRY</div><h2>GitHub, in real time.</h2></div><a class="github-icon-link" href="https://github.com/JayP2006" aria-label="Open GitHub profile" target="_blank" rel="noreferrer">↗</a></div><div class="live-stat-grid"><div class="live-stat"><span>PUBLIC REPOSITORIES</span><b id="liveRepos">--</b><small>available to explore</small></div><div class="live-stat"><span>FOLLOWERS</span><b id="liveFollowers">--</b><small>public profile signal</small></div><div class="live-stat"><span>PUBLIC STARS</span><b id="liveStars">--</b><small>across owned repositories</small></div><div class="live-stat"><span>OPEN PROFILE</span><b class="live-stat-word">ONLINE</b><small id="lastPush">awaiting API response</small></div></div><div class="api-timestamp"><span class="pulse-dot"></span><span id="apiTimestamp">Waiting for live API data</span><span class="api-source">SOURCE: GITHUB REST API</span></div></div>
+        <div class="github-dashboard-side"><div class="side-orbit"><div class="side-orbit-ring ring-1"></div><div class="side-orbit-ring ring-2"></div><div class="side-orbit-ring ring-3"></div><div class="side-orbit-core">GH</div><div class="side-orbit-dot dot-1"></div><div class="side-orbit-dot dot-2"></div><div class="side-orbit-dot dot-3"></div></div><div class="side-caption">PUBLIC DATA STREAM<br /><b>CONNECTED</b></div><div class="side-footer"><span>HTTP / REST</span><span>JSON</span><span>NO TOKEN</span></div></div>
+      </div>
+    </section>
+
+    <section class="recognition-section section-shell" id="recognition">
+      <div class="section-label reveal"><span class="section-index">06</span><span>RECOGNITION LOG</span><span class="section-line"></span><span class="section-caption">MILESTONES</span></div>
+      <div class="recognition-grid">
+        <article class="recognition-card reveal"><span class="recognition-id">ACH / 001</span><div class="recognition-symbol">✳</div><h3>Global Rank 35</h3><p>LeetCode Weekly Contest 503 among 39,000+ participants.</p><a href="https://leetcode.com/" target="_blank" rel="noreferrer">LEETCODE <span>↗</span></a></article>
+        <article class="recognition-card reveal"><span class="recognition-id">ACH / 002</span><div class="recognition-symbol">▣</div><h3>TCS NQT-IT</h3><p>Perfect score of 600/600 in the programming section.</p><a href="https://www.tcsion.com/" target="_blank" rel="noreferrer">TCS ION <span>↗</span></a></article>
+        <article class="recognition-card reveal"><span class="recognition-id">ACH / 003</span><div class="recognition-symbol">⌑</div><h3>Dewang Mehta IT Award</h3><p>Recognition from GTU for academic performance.</p><a href="https://www.gtu.ac.in/" target="_blank" rel="noreferrer">GTU <span>↗</span></a></article>
+      </div>
+    </section>
+
+    <section class="contact-section section-shell" id="contact">
+      <div class="contact-card reveal"><div class="contact-orbit"></div><div class="contact-eyebrow"><span class="pulse-dot"></span> END OF TRANSMISSION / BEGIN NEXT BUILD</div><h2>Have a problem<br /><span class="gradient-text">worth solving?</span></h2><p>I'm interested in engineering challenges, thoughtful collaboration, and opportunities to build products that matter.</p><div class="contact-actions"><a class="button button-primary" href="mailto:jay91451@gmail.com">Start a conversation <span>↗</span></a><a class="button button-quiet" href="https://linkedin.com/in/pjaykumar/" target="_blank" rel="noreferrer">Connect on LinkedIn <span>↗</span></a><button class="copy-email" id="copyEmail" type="button">COPY EMAIL ⧉</button></div><div class="contact-footer"><span>JAY PATEL</span><span>DESIGN / ENGINEERING / ITERATION</span><span>© <span id="yearNow"></span></span></div></div>
+    </section>
+  </main>
+
+  <footer class="page-footer section-shell"><span>JAY.SYSTEMS <b>v1.0</b></span><span>ENGINEERED WITH CURIOSITY <i>✳</i></span><a href="#home">BACK TO TOP ↑</a></footer>
+
+  <div class="command-overlay" id="commandOverlay" aria-hidden="true">
+    <div class="command-backdrop" data-close-command></div>
+    <div class="command-panel" role="dialog" aria-modal="true" aria-labelledby="commandTitle">
+      <div class="command-search-row"><span>⌘</span><input id="commandInput" type="text" placeholder="Type a command or jump to a section…" autocomplete="off" /><kbd>ESC</kbd></div>
+      <div class="command-title" id="commandTitle">QUICK NAVIGATION <span>SELECT TO EXECUTE</span></div>
+      <div class="command-list" id="commandList">
+        <button type="button" data-command="#home"><span class="command-icon">⌂</span><span>Go to home<small>Hero + identity</small></span><kbd>↵</kbd></button>
+        <button type="button" data-command="#systems"><span class="command-icon">◈</span><span>Explore systems<small>Featured builds</small></span><kbd>↵</kbd></button>
+        <button type="button" data-command="#repo-radar"><span class="command-icon">⌕</span><span>Open repository radar<small>Live GitHub repositories</small></span><kbd>↵</kbd></button>
+        <button type="button" data-command="#stack"><span class="command-icon">⌬</span><span>View capability map<small>Stack and foundations</small></span><kbd>↵</kbd></button>
+        <button type="button" data-command="#recognition"><span class="command-icon">✳</span><span>View recognition<small>Competitive programming + awards</small></span><kbd>↵</kbd></button>
+        <button type="button" data-command="copy-email"><span class="command-icon">@</span><span>Copy email address<small>jay91451@gmail.com</small></span><kbd>↵</kbd></button>
+      </div>
+      <div class="command-foot"><span>JAY.SYSTEMS COMMAND PALETTE</span><span>↑ ↓ NAVIGATE · ENTER OPEN · ESC CLOSE</span></div>
+    </div>
+  </div>
+
+  <div class="toast" id="toast" role="status" aria-live="polite"></div>
+</body>
+</html>
