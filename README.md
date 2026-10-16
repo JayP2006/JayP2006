@@ -1,4 +1,4 @@
-<p align="center"><img src="./assets/hero-3d.svg" width="100%" alt="Jay Patel – rotating 3D wireframe hero" /></p>
+<p align="center"><img src="hero-3d.svg" width="100%" alt="Jay Patel – rotating 3D wireframe hero" /></p>
 
 <p align="center">
   <a href="https://linkedin.com/in/pjaykumar/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -15,7 +15,7 @@ I turn complex problems into working systems: full-stack products, real-time app
 
 ## ◈ Signals
 
-<p align="center"><img src="./assets/signals-3d.svg" width="100%" alt="Isometric 3D bars: 1700+ problems, 2212+ rating, rank 35, 600/600 TCS NQT" /></p>
+<p align="center"><img src="signals-3d.svg" width="100%" alt="Isometric 3D bars: 1700+ problems, 2212+ rating, rank 35, 600/600 TCS NQT" /></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/CodeChef-1918%2B-714A2F?style=flat-square&logo=codechef&logoColor=white" />
@@ -26,7 +26,7 @@ I turn complex problems into working systems: full-stack products, real-time app
 
 ## ◈ Systems
 
-<p align="center"><img src="./assets/projects-3d.svg" width="100%" alt="Four floating 3D project slabs: ShrinkX, BharatSkill Connect, ChatObi, Churn Prediction" /></p>
+<p align="center"><img src="projects-3d.svg" width="100%" alt="Four floating 3D project slabs: ShrinkX, BharatSkill Connect, ChatObi, Churn Prediction" /></p>
 
 | Project | Open | Stack |
 |---|---|---|
