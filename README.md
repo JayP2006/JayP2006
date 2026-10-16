@@ -1,214 +1,223 @@
 <!--
-  JAY PATEL · GITHUB PROFILE README
-  Copy this file to the root of the repository named: JayP2006
-  Keep the /assets folder beside README.md so the custom visuals render.
+  JAY PATEL · DYNAMIC PROFILE SYSTEM
+  Install this README in the repository named exactly: JayP2006
+  This profile uses live-rendered remote widgets and GitHub Actions-generated telemetry.
+  GitHub README pages do not execute arbitrary JavaScript or custom CSS; expandable sections use native HTML details/summary.
 -->
 
 <p align="center">
-  <img src="assets/jay-hero.svg" alt="Jay Patel — Software Engineer, Full-stack Developer, Applied ML" width="100%" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=245&color=0:030712,48:111827,100:312E81&stroke=22D3EE&strokeWidth=1&text=JAY%20PATEL&fontSize=68&fontColor=E5F3FF&fontAlign=50&fontAlignY=43&desc=FULL-STACK%20ENGINEERING%20%E2%80%A2%20APPLIED%20ML%20%E2%80%A2%20ALGORITHMIC%20THINKING&descSize=14&descAlign=50&descAlignY=66&animation=fadeIn" alt="Animated neon Jay Patel header" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/JayP2006"><img src="https://img.shields.io/badge/GitHub-JayP2006-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://linkedin.com/in/pjaykumar/"><img src="https://img.shields.io/badge/LinkedIn-Let's%20connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://jaypatel-portfolio-2006.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Explore-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="mailto:jay91451@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-DB4437?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://auth.geeksforgeeks.org/user/jay4code/"><img src="https://img.shields.io/badge/GeeksforGeeks-Practice-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=750&color=67E8F9&center=true&vCenter=true&width=950&height=48&lines=I+turn+complex+problems+into+working+systems.;1700%2B+problems+solved+across+LeetCode+%26+GFG.;Global+Rank+%2335+%E2%80%94+LeetCode+Weekly+Contest+503.;Shipping+MERN+products+and+applied+ML+workflows.;Design.+Build.+Measure.+Refine." alt="Animated developer tagline" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JayP2006&style=flat-square&color=7C3AED&label=PROFILE+SIGNALS" alt="Profile views" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/OPEN_TO-Software%20Engineering%20Opportunities-0D1117?style=flat-square&labelColor=0891B2" alt="Software engineering opportunities" />
+  <a href="https://github.com/JayP2006"><img src="https://komarev.com/ghpvc/?username=JayP2006&style=for-the-badge&color=0891B2&label=PROFILE+SCANS" alt="Profile views" /></a>
+  <a href="https://linkedin.com/in/pjaykumar/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://jaypatel-portfolio-2006.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-ENTER-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:jay91451@gmail.com"><img src="https://img.shields.io/badge/CONTACT-OPEN-DB2777?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
----
+<p align="center">
+  <sub>LIVE AUTOMATION / PIPELINE HEALTH</sub><br />
+  <a href="https://github.com/JayP2006/JayP2006/actions/workflows/snake.yml"><img src="https://github.com/JayP2006/JayP2006/actions/workflows/snake.yml/badge.svg" alt="Contribution animation workflow status" /></a>
+  <a href="https://github.com/JayP2006/JayP2006/actions/workflows/metrics.yml"><img src="https://github.com/JayP2006/JayP2006/actions/workflows/metrics.yml/badge.svg" alt="GitHub metrics workflow status" /></a>
+</p>
 
-## `00 / THE ENGINEER`
+<p align="center">
+  <a href="#-identity-protocol">IDENTITY</a> &nbsp; ◈ &nbsp;
+  <a href="#-signal-board">SIGNALS</a> &nbsp; ◈ &nbsp;
+  <a href="#-systems-in-production">SYSTEMS</a> &nbsp; ◈ &nbsp;
+  <a href="#-capability-matrix">CAPABILITIES</a> &nbsp; ◈ &nbsp;
+  <a href="#-live-telemetry">LIVE TELEMETRY</a>
+</p>
 
-I'm **Jay Patel**, a Computer Science undergraduate and aspiring Software Engineer who enjoys the intersection of **algorithmic problem-solving, full-stack engineering, and applied machine learning**.
-
-I like turning an idea into a working product: shaping the data model, designing APIs, building an intuitive interface, and making the pieces communicate reliably. Outside project work, competitive programming keeps me sharp on algorithms, edge cases, and performance.
-
+◈ Identity protocol
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <strong>EDUCATION</strong><br /><br />
-      B.Tech · Computer Science & Engineering<br />
-      Shree Swaminarayan Institute of Technology<br />
-      <code>2023 — 2027</code> &nbsp;·&nbsp; <strong>CGPA 8.65</strong>
+    <td colspan="3">
+      <sub><b>JAY.PATEL / ENGINEERING PROFILE</b></sub><br />
+      <h2>Building useful software. Thinking in algorithms. Learning from data.</h2>
+      Computer Science undergraduate focused on full-stack product engineering, real-time applications, applied machine learning, and competitive programming. I enjoy the full loop: understanding the problem, designing the system, building the product, and measuring whether it works.
     </td>
-    <td width="50%" valign="top">
-      <strong>ENGINEERING INTERESTS</strong><br /><br />
-      Full-stack products · Real-time systems<br />
-      Applied ML · Data-driven features<br />
-      Algorithms · API design · Reliability
-    </td>
+  </tr>
+  <tr>
+    <td width="34%" valign="top"><sub>01 / ACADEMICS</sub><br /><br /><b>B.Tech · CSE</b><br />Shree Swaminarayan Institute of Technology<br /><code>2023 — 2027</code><br /><b>CGPA 8.65</b></td>
+    <td width="33%" valign="top"><sub>02 / ENGINEERING MODE</sub><br /><br /><b>Full-stack systems</b><br />MERN · REST APIs · Socket.IO<br />Authentication · Data workflows</td>
+    <td width="33%" valign="top"><sub>03 / RESEARCH MODE</sub><br /><br /><b>Applied ML</b><br />EDA · Feature engineering<br />Model comparison · Evaluation</td>
   </tr>
 </table>
 
-## `01 / PERFORMANCE SIGNALS`
+<details>
+  <summary><b>⌁ Open engineering notes</b> — how I approach a build</summary>
+  <br />
 
+01  FRAME       Define the user problem and constraints
+02  MODEL       Shape the data, API boundaries, and core logic
+03  BUILD       Ship a usable, responsive end-to-end workflow
+04  VERIFY      Test edge cases, authorization, and failure paths
+05  MEASURE     Evaluate performance using meaningful signals
+06  ITERATE     Refine the product from evidence, not guesses
+</details>
+
+◈ Signal board
 <table>
   <tr>
-    <td align="center" width="25%">
-      <h2>1,700+</h2>
-      <sub>PROBLEMS SOLVED</sub><br />
-      <sub>LeetCode + GFG</sub>
-    </td>
-    <td align="center" width="25%">
-      <h2>2,212+</h2>
-      <sub>LEETCODE RATING</sub><br />
-      <sub>Top ~2% · Resume-reported</sub>
-    </td>
-    <td align="center" width="25%">
-      <h2>#35</h2>
-      <sub>WEEKLY CONTEST 503</sub><br />
-      <sub>39,000+ participants</sub>
-    </td>
-    <td align="center" width="25%">
-      <h2>600/600</h2>
-      <sub>TCS NQT-IT</sub><br />
-      <sub>Programming section</sub>
-    </td>
+    <td align="center" width="25%"><sub>PROBLEMS SOLVED</sub><br /><h2>1,700+</h2><sub>LeetCode + GFG</sub></td>
+    <td align="center" width="25%"><sub>LEETCODE RATING</sub><br /><h2>2,212+</h2><sub>Top ~2% · resume-reported</sub></td>
+    <td align="center" width="25%"><sub>CONTEST RESULT</sub><br /><h2>#35</h2><sub>Weekly Contest 503</sub></td>
+    <td align="center" width="25%"><sub>TCS NQT-IT</sub><br /><h2>600/600</h2><sub>Programming section</sub></td>
   </tr>
 </table>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CodeChef-1918%2B%20Rating-5B4638?style=flat-square&logo=codechef&logoColor=white" alt="CodeChef rating" />
-  <img src="https://img.shields.io/badge/HackerRank-5%20Stars-2EC866?style=flat-square&logo=hackerrank&logoColor=white" alt="HackerRank five-star rating" />
-  <img src="https://img.shields.io/badge/Recognition-Dewang%20Mehta%20IT%20Award-7C3AED?style=flat-square" alt="Dewang Mehta IT Award" />
+  <img src="https://img.shields.io/badge/CodeChef-1918%2B-714A2F?style=flat-square&logo=codechef&logoColor=white" alt="CodeChef rating" />
+  <img src="https://img.shields.io/badge/HackerRank-5%20Stars-15803D?style=flat-square&logo=hackerrank&logoColor=white" alt="HackerRank rating" />
+  <img src="https://img.shields.io/badge/GTU-Dewang%20Mehta%20IT%20Award-6D28D9?style=flat-square" alt="Dewang Mehta IT Award" />
 </p>
 
-<p align="center"><sub>Competition stats and awards above reflect the information in my current resume; ratings and rankings may change over time.</sub></p>
+<p align="center"><sub>Competitive-programming scores and award details are from my current resume; third-party ratings and rankings may change.</sub></p>
 
-## `02 / SELECTED BUILDS`
-
-<p align="center">
-  <img src="assets/engineering-loop.svg" alt="Build loop: understand the problem, engineer the system, validate the outcome" width="100%" />
-</p>
-
+◈ Systems in production
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>01 · ShrinkX</h3>
-      <sub>LINK INTELLIGENCE PLATFORM</sub><br /><br />
-      A MERN URL-shortening app that goes beyond redirects, combining link management with useful traffic insights.
-      <br /><br />
-      <strong>Build highlights</strong><br />
-      • Custom aliases, protected links, and expiry rules<br />
-      • QR codes and click analytics<br />
-      • AI-generated link previews and click-trend alerts<br /><br />
-      <sub>React · Node.js · Express · MongoDB · Gemini API</sub><br /><br />
-      <a href="https://github.com/JayP2006/Urlshortner"><img src="https://img.shields.io/badge/SOURCE-View%20repository-111827?style=for-the-badge&logo=github" alt="ShrinkX source" /></a>
-      <a href="https://shrinkx.onrender.com/"><img src="https://img.shields.io/badge/LIVE-Open%20ShrinkX-0891B2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="ShrinkX live demo" /></a>
+      <sub>01 / LINK INTELLIGENCE</sub>
+      <h3><a href="https://github.com/JayP2006/Urlshortner">ShrinkX ↗</a></h3>
+      <a href="https://shrinkx.onrender.com/"><img src="https://img.shields.io/badge/OPEN-LIVE%20DEMO-06B6D4?style=flat-square&logo=googlechrome&logoColor=white" alt="Open ShrinkX" /></a>
+      <br /><br />A MERN URL platform built around more than redirects: link lifecycle control, traffic insight, and AI-assisted context.
+      <br /><br /><b>System features</b><br />
+      • Custom aliases, protected links, and expiry-based deactivation<br />
+      • QR generation and dashboard analytics for clicks, referrers, and devices<br />
+      • Gemini-powered link previews and click-trend alerts<br /><br />
+      <sub>REACT · NODE.JS · EXPRESS · MONGODB · GEMINI</sub>
+      <br /><br /><a href="https://github-readme-stats.vercel.app/api/pin/?username=JayP2006&repo=Urlshortner&theme=tokyonight&hide_border=true"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JayP2006&repo=Urlshortner&theme=tokyonight&hide_border=true" alt="Live ShrinkX repository card" width="100%" /></a>
     </td>
     <td width="50%" valign="top">
-      <h3>02 · BharatSkill Connect</h3>
-      <sub>HYPERLOCAL SKILL EXCHANGE</sub><br /><br />
-      A peer-to-peer platform connecting learners and mentors through location-aware discovery and real-time communication.
-      <br /><br />
-      <strong>Build highlights</strong><br />
-      • Geo-based skill discovery and session bookings<br />
-      • JWT authentication and role-based access<br />
-      • Socket.IO chat, reviews, and Cloudinary media<br /><br />
-      <sub>React · Express · MongoDB · JWT · Socket.IO</sub><br /><br />
-      <a href="https://github.com/JayP2006/Bharat-Skill-Exchange"><img src="https://img.shields.io/badge/SOURCE-View%20repository-111827?style=for-the-badge&logo=github" alt="BharatSkill Connect source" /></a>
-      <a href="https://shiksha-mudraa.onrender.com"><img src="https://img.shields.io/badge/LIVE-Open%20platform-0891B2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="BharatSkill Connect live demo" /></a>
+      <sub>02 / HYPERLOCAL NETWORK</sub>
+      <h3><a href="https://github.com/JayP2006/Bharat-Skill-Exchange">BharatSkill Connect ↗</a></h3>
+      <a href="https://shiksha-mudraa.onrender.com"><img src="https://img.shields.io/badge/OPEN-LIVE%20PLATFORM-06B6D4?style=flat-square&logo=googlechrome&logoColor=white" alt="Open BharatSkill Connect" /></a>
+      <br /><br />A peer-to-peer skill exchange that connects learners and mentors through location-aware discovery and real-time communication.
+      <br /><br /><b>System features</b><br />
+      • Skill listings, session requests, booking and availability workflows<br />
+      • JWT authentication, role authorization, rate limiting, and centralized errors<br />
+      • Real-time chat, reviews, certificates, and Cloudinary media<br /><br />
+      <sub>REACT · EXPRESS · MONGODB · JWT · SOCKET.IO</sub>
+      <br /><br /><a href="https://github-readme-stats.vercel.app/api/pin/?username=JayP2006&repo=Bharat-Skill-Exchange&theme=tokyonight&hide_border=true"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JayP2006&repo=Bharat-Skill-Exchange&theme=tokyonight&hide_border=true" alt="Live BharatSkill Connect repository card" width="100%" /></a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>03 · ChatObi</h3>
-      <sub>REAL-TIME MESSAGING</sub><br /><br />
-      A real-time chat application focused on responsive conversation flows and authenticated user interactions.
-      <br /><br />
-      <strong>Build highlights</strong><br />
-      • JWT-based authentication<br />
-      • Socket-powered one-to-one messaging<br />
-      • User search and message-state UX<br /><br />
-      <sub>React · Node.js · Express · MongoDB · Socket.IO</sub><br /><br />
-      <a href="https://github.com/JayP2006/chat-app"><img src="https://img.shields.io/badge/SOURCE-View%20repository-111827?style=for-the-badge&logo=github" alt="ChatObi source" /></a>
-      <a href="https://chatobi.onrender.com/"><img src="https://img.shields.io/badge/LIVE-Open%20ChatObi-0891B2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="ChatObi live demo" /></a>
+      <sub>03 / REAL-TIME COMMUNICATION</sub>
+      <h3><a href="https://github.com/JayP2006/chat-app">ChatObi ↗</a></h3>
+      <a href="https://chatobi.onrender.com/"><img src="https://img.shields.io/badge/OPEN-LIVE%20CHAT-06B6D4?style=flat-square&logo=googlechrome&logoColor=white" alt="Open ChatObi" /></a>
+      <br /><br />A responsive chat product using authenticated user flows and persistent, real-time messaging.
+      <br /><br /><b>System features</b><br />
+      • JWT-based authentication and user search<br />
+      • Socket.IO one-to-one messaging<br />
+      • Conversation history and message-state interface<br /><br />
+      <sub>REACT · NODE.JS · EXPRESS · MONGODB · SOCKET.IO</sub>
+      <br /><br /><a href="https://github-readme-stats.vercel.app/api/pin/?username=JayP2006&repo=chat-app&theme=tokyonight&hide_border=true"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JayP2006&repo=chat-app&theme=tokyonight&hide_border=true" alt="Live ChatObi repository card" width="100%" /></a>
     </td>
     <td width="50%" valign="top">
-      <h3>04 · Customer Churn Prediction</h3>
-      <sub>APPLIED MACHINE LEARNING</sub><br /><br />
-      A supervised-learning workflow to identify customers at risk of leaving, from data preparation through model evaluation and a prediction interface.
-      <br /><br />
-      <strong>Build highlights</strong><br />
-      • Analysis of 7,043 Telco customer records<br />
-      • Six classifiers compared using 5-fold cross-validation<br />
-      • Logistic Regression selected: 75.02% test accuracy<br /><br />
-      <sub>Python · Pandas · NumPy · Scikit-learn · SMOTE</sub><br /><br />
-      <a href="https://github.com/JayP2006/customer-churn-prediction"><img src="https://img.shields.io/badge/SOURCE-View%20repository-111827?style=for-the-badge&logo=github" alt="Customer Churn Prediction source" /></a>
+      <sub>04 / APPLIED MACHINE LEARNING</sub>
+      <h3>Customer Churn Prediction</h3>
+      <a href="https://github.com/JayP2006?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE-GITHUB%20REPOSITORIES-7C3AED?style=flat-square&logo=github&logoColor=white" alt="Explore Jay's repositories" /></a>
+      <br /><br />A supervised ML workflow to identify customers at risk of leaving, from raw data through model evaluation.
+      <br /><br /><b>Model workflow</b><br />
+      • Cleaned and analyzed 7,043 Telco customer records<br />
+      • Compared six classifiers with 5-fold cross-validation<br />
+      • Logistic Regression selected: 76.15% recall, 60.09% F1, 75.02% test accuracy<br /><br />
+      <sub>PYTHON · PANDAS · NUMPY · SCIKIT-LEARN · SMOTE</sub>
     </td>
   </tr>
 </table>
 
-## `03 / TOOLCHAIN`
+<details>
+  <summary><b>⌁ More about the ML workflow</b> — expand evaluation details</summary>
+  <br />
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,python,c,java,react,nodejs,express,mongodb,mysql,html,css,tailwind,git,github,postman,vscode&perline=8" alt="JavaScript, Python, C, Java, React, Node.js, Express, MongoDB, MySQL, HTML, CSS, Tailwind CSS, Git, GitHub, Postman and VS Code" />
-</p>
+Stage	What I did
+Data understanding	Inspected numerical and categorical customer features
+Preprocessing	Cleaned data, encoded categories, scaled features where needed
+Imbalance handling	Applied SMOTE to training data
+Benchmarking	Compared Logistic Regression, Decision Tree, Random Forest, SVM, Naive Bayes, and XGBoost
+Evaluation	Used 5-fold cross-validation and test-set metrics to make model selection evidence-based
 
+
+  The values above are reported from my resume and describe that project run; they are not presented as live production metrics.
+</details>
+
+◈ Capability matrix
 <p align="center">
-  <img src="https://img.shields.io/badge/Machine%20Learning-Scikit--learn%20%7C%20Pandas%20%7C%20NumPy-2563EB?style=flat-square" alt="Machine learning tools" />
-  <img src="https://img.shields.io/badge/Real--time-Socket.IO-111827?style=flat-square&logo=socketdotio" alt="Socket.IO" />
-  <img src="https://img.shields.io/badge/Architecture-REST%20APIs%20%7C%20MVC-7C3AED?style=flat-square" alt="REST APIs and MVC" />
+  <img src="https://skillicons.dev/icons?i=js,python,c,java,react,nodejs,express,mongodb,mysql,html,css,tailwind,git,github,postman,vscode&perline=8" alt="JavaScript, Python, C, Java, React, Node.js, Express, MongoDB, MySQL, HTML, CSS, Tailwind, Git, GitHub, Postman and VS Code" />
 </p>
 
 <table>
   <tr>
-    <td width="33%" valign="top">
-      <strong>BUILD</strong><br /><br />
-      React · Node.js · Express<br />
-      REST APIs · Responsive UI<br />
-      MongoDB · MySQL
-    </td>
-    <td width="33%" valign="top">
-      <strong>ANALYZE</strong><br /><br />
-      Python · Pandas · NumPy<br />
-      Scikit-learn · EDA<br />
-      Model evaluation · SMOTE
-    </td>
-    <td width="33%" valign="top">
-      <strong>ENGINEER</strong><br /><br />
-      Data structures & algorithms<br />
-      OOP · DBMS · OS · Networks<br />
-      Git · Postman · Jupyter
-    </td>
+    <td width="33%" valign="top"><sub>BUILD / APPLICATIONS</sub><br /><br />React · Node.js · Express<br />REST APIs · MVC architecture<br />MongoDB · MySQL<br />Socket.IO · JWT · Cloudinary</td>
+    <td width="33%" valign="top"><sub>MODEL / DATA</sub><br /><br />Python · Pandas · NumPy<br />Scikit-learn · Matplotlib · Seaborn<br />EDA · SMOTE · Classification<br />Cross-validation · Model evaluation</td>
+    <td width="33%" valign="top"><sub>REASON / SYSTEMS</sub><br /><br />Data structures & algorithms<br />OOP · DBMS · Operating systems<br />Computer networks<br />Git · GitHub · Postman · Jupyter</td>
   </tr>
 </table>
 
-## `04 / GITHUB TELEMETRY`
+<details>
+  <summary><b>⌁ Open the toolchain map</b> — languages, products, and foundations</summary>
+  <br />
 
+LANGUAGES       JavaScript · Python · C · Java · SQL
+WEB             React · Node.js · Express · HTML · CSS · Tailwind
+DATA / ML       Pandas · NumPy · Scikit-learn · Matplotlib · Seaborn · SMOTE
+REAL-TIME       Socket.IO · WebSockets
+DATA STORES     MongoDB · MySQL
+WORKFLOW        Git · GitHub · Postman · Jupyter · Google Colab
+FOUNDATIONS     DSA · OOP · DBMS · OS · Computer Networks
+</details>
+
+◈ Live telemetry
 <p align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=JayP2006&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&bg_color=0D1117&title_color=67E8F9&icon_color=A78BFA&text_color=C9D1D9" alt="Jay's GitHub statistics" />
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayP2006&layout=compact&hide_border=true&langs_count=8&bg_color=0D1117&title_color=67E8F9&text_color=C9D1D9" alt="Most-used languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JayP2006&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=tokyonight&bg_color=0D1117&title_color=67E8F9&icon_color=A78BFA&text_color=C9D1D9" alt="Live GitHub statistics" height="185" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayP2006&layout=donut&langs_count=8&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=67E8F9&text_color=C9D1D9" alt="Live language distribution" height="185" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=JayP2006&hide_border=true&background=0D1117&ring=67E8F9&fire=A78BFA&currStreakLabel=67E8F9&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub contribution streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JayP2006&theme=tokyonight" alt="Live GitHub profile activity summary" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JayP2006&bg_color=0D1117&color=C9D1D9&line=67E8F9&point=A78BFA&area=true&hide_border=true" alt="GitHub contribution activity graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JayP2006&bg_color=0D1117&color=C9D1D9&line=22D3EE&point=A78BFA&area=true&hide_border=true&custom_title=CONTRIBUTION%20SIGNAL%20%2F%2F%20ACTIVITY%20STREAM" alt="Live GitHub activity graph" width="100%" />
 </p>
 
-## `05 / RECOGNITION`
+<details>
+  <summary><b>⌁ Open the daily metrics layer</b> — deeper activity, language, and contribution intelligence</summary>
+  <br />
 
-- **Global Rank 35** in LeetCode Weekly Contest 503, among 39,000+ participants.
-- **600/600** in the Programming section of TCS NQT-IT.
-- **Dewang Mehta IT Award**, awarded by GTU for academic performance.
-- **CodeChef rating 1918+** and **HackerRank Problem Solving 5-Star**.
+  Once the Metrics workflow is enabled (instructions in INSTALL.md), this panel is refreshed automatically by GitHub Actions:
+  <p align="center"><img src="./github-metrics.svg" alt="Automatically refreshed GitHub metrics dashboard" width="100%" /></p>
+</details>
 
----
-
+◈ Contribution animation
 <p align="center">
-  <strong>Curious by default. Deliberate in design. Relentless about edge cases.</strong><br />
-  <sub>Thanks for exploring my work — I'm always glad to connect with builders and problem-solvers.</sub><br /><br />
-  <a href="https://linkedin.com/in/pjaykumar/">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="https://jaypatel-portfolio-2006.vercel.app">Portfolio</a> &nbsp;·&nbsp;
-  <a href="mailto:jay91451@gmail.com">Email</a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./github-snake.svg" />
+    <img alt="Animated snake traversing the GitHub contribution graph" src="./github-snake.svg" width="100%" />
+  </picture>
 </p>
+
+<sub>The snake is regenerated from the contribution grid by a scheduled GitHub Action. Run the workflow once after setup to generate the first animation.</sub>
+◈ Recognition log
+- Global Rank 35 among 39,000+ participants in LeetCode Weekly Contest 503.
+- 600/600 in the Programming section of TCS NQT-IT.
+- Dewang Mehta IT Award from GTU for academic performance.
+- CodeChef 1918+ and HackerRank Problem Solving 5-Star.
+<table>
+  <tr>
+    <td width="65%" valign="top"><sub>END OF PROFILE / NEXT ITERATION ALWAYS IN PROGRESS</sub><br /><br /><b>Curious by default. Deliberate in design. Relentless about edge cases.</b><br />I’m interested in building software that is useful, measurable, and reliable.</td>
+    <td align="center" valign="middle"><a href="https://linkedin.com/in/pjaykumar/">LINKEDIN ↗</a><br /><br /><a href="https://jaypatel-portfolio-2006.vercel.app">PORTFOLIO ↗</a><br /><br /><a href="mailto:jay91451@gmail.com">EMAIL ↗</a></td>
+  </tr>
+</table>
+
+<p align="center"><sub>Profile visuals combine live third-party widgets with GitHub Actions-generated files. External services may cache results or occasionally be unavailable.</sub></p>
