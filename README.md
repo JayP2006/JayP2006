@@ -1,64 +1,61 @@
-<!--
-  JAY PATEL · QUANTUM NEURAL PROFILE SYSTEM
-  Repository: JayP2006/JayP2006
-  Architecture: High-Performance Full-Stack & Applied ML Engineering HUD
--->
+<p align="center"><img src="./assets/hero-3d.svg" width="100%" alt="Jay Patel – rotating 3D wireframe hero" /></p>
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=220&color=0:030712,50:0F172A,100:1E1B4B&stroke=06B6D4&strokeWidth=2&text=JAY%20PATEL&fontSize=70&fontColor=38BDF8&fontAlign=50&fontAlignY=40&desc=FULL-STACK%20ENGINEERING%20•%20APPLIED%20ML%20•%20ALGORITHMIC%20SYSTEMS&descSize=15&descColor=94A3B8&descAlign=50&descAlignY=68&animation=scaleIn" alt="Futuristic Cyber Header" />
+  <a href="https://linkedin.com/in/pjaykumar/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://jaypatel-portfolio-2006.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-ENTER-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="mailto:jay91451@gmail.com"><img src="https://img.shields.io/badge/CONTACT-OPEN-DB2777?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=JayP2006&style=for-the-badge&color=0891B2&label=PROFILE+VIEWS" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=800&color=22D3EE&center=true&vCenter=true&width=950&height=48&lines=Executing+Complex+Full-Stack+Architectures.;Global+Rank+%2335+—+LeetCode+Weekly+Contest+503.;Rating+2212%2B+on+LeetCode+(Top+~2%25).;Building+MERN+Ecosystems+%26+Applied+ML+Pipelines.;Designing+Scalable+Digital+Infrastructure." alt="Dynamic Typing Tagline" />
+  <a href="#-signals">Signals</a> · <a href="#-systems">Systems</a> · <a href="#-toolchain">Toolchain</a> · <a href="#-live-telemetry">Telemetry</a>
 </p>
+
+I turn complex problems into working systems: full-stack products, real-time apps, applied ML, and competitive programming. I like the whole loop: frame the problem, design it, build it, measure it.
+
+## ◈ Signals
+
+<p align="center"><img src="./assets/signals-3d.svg" width="100%" alt="Isometric 3D bars: 1700+ problems, 2212+ rating, rank 35, 600/600 TCS NQT" /></p>
 
 <p align="center">
-  <a href="https://github.com/JayP2006"><img src="https://komarev.com/ghpvc/?username=JayP2006&style=for-the-badge&color=0891B2&label=SYSTEM+ACCESSES" alt="Profile views" /></a>
-  <a href="https://linkedin.com/in/pjaykumar/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://jaypatel-portfolio-2006.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-LAUNCH-%237C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="mailto:jay91451@gmail.com"><img src="https://img.shields.io/badge/SECURE-MAIL-%23DB2777?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://img.shields.io/badge/CodeChef-1918%2B-714A2F?style=flat-square&logo=codechef&logoColor=white" />
+  <img src="https://img.shields.io/badge/HackerRank-5%20Stars-15803D?style=flat-square&logo=hackerrank&logoColor=white" />
+  <img src="https://img.shields.io/badge/GTU-Dewang%20Mehta%20IT%20Award-6D28D9?style=flat-square" />
 </p>
+<p align="center"><sub>Scores are from my resume; third-party ratings change.</sub></p>
 
-<p align="center">
-  <sub>⚡ QUANTUM TELEMETRY / PIPELINE STATUS ⚡</sub><br />
-  <a href="https://github.com/JayP2006/JayP2006/actions/workflows/snake.yml"><img src="https://github.com/JayP2006/JayP2006/actions/workflows/snake.yml/badge.svg" alt="Snake generation status" /></a>
-  <a href="https://github.com/JayP2006/JayP2006/actions/workflows/metrics.yml"><img src="https://github.com/JayP2006/JayP2006/actions/workflows/metrics.yml/badge.svg" alt="Metrics generation status" /></a>
-</p>
+## ◈ Systems
 
-<p align="center">
-  <a href="#-neural-identity">⚡ IDENTITY</a> &nbsp; ◈ &nbsp;
-  <a href="#-elite-signal-grid">⚡ SIGNALS</a> &nbsp; ◈ &nbsp;
-  <a href="#-production-systems">⚡ SYSTEMS</a> &nbsp; ◈ &nbsp;
-  <a href="#-capability-matrix">⚡ TECH MATRIX</a> &nbsp; ◈ &nbsp;
-  <a href="#-live-telemetry-hud">⚡ TELEMETRY</a>
-</p>
+<p align="center"><img src="./assets/projects-3d.svg" width="100%" alt="Four floating 3D project slabs: ShrinkX, BharatSkill Connect, ChatObi, Churn Prediction" /></p>
 
----
-
-## ◈ Neural Identity
-
-<table>
-  <tr>
-    <td colspan="3">
-      <sub><b>SYS_CORE // DEVELOPER PROFILE</b></sub><br />
-      <h3>Engineering robust full-stack applications with algorithmic precision.</h3>
-      Computer Science undergrad at Shree Swaminarayan Institute of Technology (2023–2027) with a deep passion for scalable web architecture, real-time socket communication, and applied machine learning models. I specialize in turning complex logic into high-performance, user-centric systems.
-    </td>
-  </tr>
-  <tr>
-    <td width="34%" valign="top"><sub>01 / ACADEMIC FOUNDATION</sub><br /><br /><b>B.Tech · CSE</b><br />SSIT / GTU<br /><code>2023 — 2027</code><br /><b>CGPA: 8.65</b></td>
-    <td width="33%" valign="top"><sub>02 / ENGINEERING FOCUS</sub><br /><br /><b>Full-Stack Systems</b><br />MERN Stack · REST APIs<br />Socket.IO · JWT Auth · Cloudinary</td>
-    <td width="33%" valign="top"><sub>03 / INTELLIGENCE ENGINE</sub><br /><br /><b>Applied ML & DSA</b><br />Scikit-learn · Pandas · SMOTE<br />Advanced Algorithmic Problem Solving</td>
-  </tr>
-</table>
+| Project | Open | Stack |
+|---|---|---|
+| **ShrinkX**: URL platform with analytics and Gemini previews | [Live](https://shrinkx.onrender.com/) · [Code](https://github.com/JayP2006/Urlshortner) | React, Node, Express, MongoDB, Gemini |
+| **BharatSkill Connect**: peer-to-peer skill exchange | [Live](https://shiksha-mudraa.onrender.com) · [Code](https://github.com/JayP2006/Bharat-Skill-Exchange) | React, Express, MongoDB, JWT, Socket.IO |
+| **ChatObi**: real-time chat | [Live](https://chatobi.onrender.com/) · [Code](https://github.com/JayP2006/chat-app) | React, Node, MongoDB, Socket.IO |
+| **Customer Churn Prediction**: 7,043 Telco records, 6 classifiers | [Repos](https://github.com/JayP2006?tab=repositories) | Python, Pandas, scikit-learn, SMOTE |
 
 <details>
-  <summary><b>⚙️ Terminal View: Engineering Execution Framework</b></summary>
-  <br />
+<summary><b>Churn model: evaluation details</b></summary>
 
-  ```text
-  [INIT] ---> Define core user constraints and system boundaries.
-  [ARCH] ---> Design modular MVC backend architecture & clean DB schemas.
-  [BUILD] --> Code responsive interfaces and performant real-time workflows.
-  [TEST] ---> Validate security, edge cases, rate-limiting, and error pipelines.
-  [SCALE] --> Deploy production-ready applications with continuous monitoring.
+Logistic Regression selected from six classifiers (5-fold CV, SMOTE on training data): **76.15% recall, 60.09% F1, 75.02% test accuracy**. Figures come from my resume and describe that project run.
+</details>
+
+## ◈ Toolchain
+
+<p align="center"><img src="https://skillicons.dev/icons?i=js,python,c,java,react,nodejs,express,mongodb,mysql,html,css,tailwind,git,github,postman,vscode&perline=8" /></p>
+
+## ◈ Live telemetry
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JayP2006&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=tokyonight&bg_color=0D1117&title_color=67E8F9&icon_color=A78BFA" height="185" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayP2006&layout=donut&langs_count=8&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=67E8F9" height="185" />
+</p>
+<p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=JayP2006&bg_color=0D1117&color=C9D1D9&line=22D3EE&point=A78BFA&area=true&hide_border=true" width="100%" /></p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./github-snake-dark.svg" />
+    <img alt="Contribution snake" src="./github-snake.svg" width="100%" />
+  </picture>
+</p>
