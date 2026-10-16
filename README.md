@@ -1,4 +1,4 @@
-<p align="center"><img src="hero-3d.svg" width="100%" alt="Jay Patel – rotating 3D wireframe hero" /></p>
+<p align="center"><img src="hero-3d-v2.svg" width="100%" alt="Jay Patel – rotating 3D wireframe hero" /></p>
 
 <p align="center">
   <a href="https://linkedin.com/in/pjaykumar/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
