@@ -34,7 +34,10 @@
   <a href="#-live-telemetry">LIVE TELEMETRY</a>
 </p>
 
-◈ Identity protocol
+---
+
+## ◈ Identity protocol
+
 <table>
   <tr>
     <td colspan="3">
@@ -54,15 +57,18 @@
   <summary><b>⌁ Open engineering notes</b> — how I approach a build</summary>
   <br />
 
-01  FRAME       Define the user problem and constraints
-02  MODEL       Shape the data, API boundaries, and core logic
-03  BUILD       Ship a usable, responsive end-to-end workflow
-04  VERIFY      Test edge cases, authorization, and failure paths
-05  MEASURE     Evaluate performance using meaningful signals
-06  ITERATE     Refine the product from evidence, not guesses
+  ```text
+  01  FRAME       Define the user problem and constraints
+  02  MODEL       Shape the data, API boundaries, and core logic
+  03  BUILD       Ship a usable, responsive end-to-end workflow
+  04  VERIFY      Test edge cases, authorization, and failure paths
+  05  MEASURE     Evaluate performance using meaningful signals
+  06  ITERATE     Refine the product from evidence, not guesses
+  ```
 </details>
 
-◈ Signal board
+## ◈ Signal board
+
 <table>
   <tr>
     <td align="center" width="25%"><sub>PROBLEMS SOLVED</sub><br /><h2>1,700+</h2><sub>LeetCode + GFG</sub></td>
@@ -80,7 +86,8 @@
 
 <p align="center"><sub>Competitive-programming scores and award details are from my current resume; third-party ratings and rankings may change.</sub></p>
 
-◈ Systems in production
+## ◈ Systems in production
+
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -139,18 +146,19 @@
   <summary><b>⌁ More about the ML workflow</b> — expand evaluation details</summary>
   <br />
 
-Stage	What I did
-Data understanding	Inspected numerical and categorical customer features
-Preprocessing	Cleaned data, encoded categories, scaled features where needed
-Imbalance handling	Applied SMOTE to training data
-Benchmarking	Compared Logistic Regression, Decision Tree, Random Forest, SVM, Naive Bayes, and XGBoost
-Evaluation	Used 5-fold cross-validation and test-set metrics to make model selection evidence-based
-
+  | Stage | What I did |
+  |---|---|
+  | Data understanding | Inspected numerical and categorical customer features |
+  | Preprocessing | Cleaned data, encoded categories, scaled features where needed |
+  | Imbalance handling | Applied SMOTE to training data |
+  | Benchmarking | Compared Logistic Regression, Decision Tree, Random Forest, SVM, Naive Bayes, and XGBoost |
+  | Evaluation | Used 5-fold cross-validation and test-set metrics to make model selection evidence-based |
 
   The values above are reported from my resume and describe that project run; they are not presented as live production metrics.
 </details>
 
-◈ Capability matrix
+## ◈ Capability matrix
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,python,c,java,react,nodejs,express,mongodb,mysql,html,css,tailwind,git,github,postman,vscode&perline=8" alt="JavaScript, Python, C, Java, React, Node.js, Express, MongoDB, MySQL, HTML, CSS, Tailwind, Git, GitHub, Postman and VS Code" />
 </p>
@@ -167,16 +175,19 @@ Evaluation	Used 5-fold cross-validation and test-set metrics to make model selec
   <summary><b>⌁ Open the toolchain map</b> — languages, products, and foundations</summary>
   <br />
 
-LANGUAGES       JavaScript · Python · C · Java · SQL
-WEB             React · Node.js · Express · HTML · CSS · Tailwind
-DATA / ML       Pandas · NumPy · Scikit-learn · Matplotlib · Seaborn · SMOTE
-REAL-TIME       Socket.IO · WebSockets
-DATA STORES     MongoDB · MySQL
-WORKFLOW        Git · GitHub · Postman · Jupyter · Google Colab
-FOUNDATIONS     DSA · OOP · DBMS · OS · Computer Networks
+  ```text
+  LANGUAGES       JavaScript · Python · C · Java · SQL
+  WEB             React · Node.js · Express · HTML · CSS · Tailwind
+  DATA / ML       Pandas · NumPy · Scikit-learn · Matplotlib · Seaborn · SMOTE
+  REAL-TIME       Socket.IO · WebSockets
+  DATA STORES     MongoDB · MySQL
+  WORKFLOW        Git · GitHub · Postman · Jupyter · Google Colab
+  FOUNDATIONS     DSA · OOP · DBMS · OS · Computer Networks
+  ```
 </details>
 
-◈ Live telemetry
+## ◈ Live telemetry
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JayP2006&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=tokyonight&bg_color=0D1117&title_color=67E8F9&icon_color=A78BFA&text_color=C9D1D9" alt="Live GitHub statistics" height="185" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayP2006&layout=donut&langs_count=8&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=67E8F9&text_color=C9D1D9" alt="Live language distribution" height="185" />
@@ -194,11 +205,13 @@ FOUNDATIONS     DSA · OOP · DBMS · OS · Computer Networks
   <summary><b>⌁ Open the daily metrics layer</b> — deeper activity, language, and contribution intelligence</summary>
   <br />
 
-  Once the Metrics workflow is enabled (instructions in INSTALL.md), this panel is refreshed automatically by GitHub Actions:
+  Once the **Metrics** workflow is enabled (instructions in `INSTALL.md`), this panel is refreshed automatically by GitHub Actions:
+
   <p align="center"><img src="./github-metrics.svg" alt="Automatically refreshed GitHub metrics dashboard" width="100%" /></p>
 </details>
 
-◈ Contribution animation
+## ◈ Contribution animation
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./github-snake-dark.svg" />
@@ -208,11 +221,16 @@ FOUNDATIONS     DSA · OOP · DBMS · OS · Computer Networks
 </p>
 
 <sub>The snake is regenerated from the contribution grid by a scheduled GitHub Action. Run the workflow once after setup to generate the first animation.</sub>
-◈ Recognition log
-- Global Rank 35 among 39,000+ participants in LeetCode Weekly Contest 503.
-- 600/600 in the Programming section of TCS NQT-IT.
-- Dewang Mehta IT Award from GTU for academic performance.
-- CodeChef 1918+ and HackerRank Problem Solving 5-Star.
+
+## ◈ Recognition log
+
+- **Global Rank 35** among 39,000+ participants in LeetCode Weekly Contest 503.
+- **600/600** in the Programming section of TCS NQT-IT.
+- **Dewang Mehta IT Award** from GTU for academic performance.
+- **CodeChef 1918+** and **HackerRank Problem Solving 5-Star**.
+
+---
+
 <table>
   <tr>
     <td width="65%" valign="top"><sub>END OF PROFILE / NEXT ITERATION ALWAYS IN PROGRESS</sub><br /><br /><b>Curious by default. Deliberate in design. Relentless about edge cases.</b><br />I’m interested in building software that is useful, measurable, and reliable.</td>
